@@ -2,7 +2,7 @@
 
 ## About
 
-The course introduced me to the importance of protecting critical infrastructure and understanding the cybersecurity risks that can affect essential services and industrial environments.
+The course introduced me to the importance of protecting critical infrastructure and understanding the cybersecurity risks that can affect essential services and industrial environments
 
 ## What I Learned
 
