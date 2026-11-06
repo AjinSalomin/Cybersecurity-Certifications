@@ -1,6 +1,6 @@
 # Core Certified Cybersecurity Foundations
 
-This repository contains my Core Certified Cybersecurity Foundations certificate, completed through Hackviser as part of my cybersecurity learning journey.
+This repository contains my Core Certified Cybersecurity Foundations certificate, completed through Hackviser as part of my cybersecurity learning journey
 
 The certification helped me build a foundation in essential cybersecurity concepts and understand key areas involved in protecting systems, networks, applications, and data.
 
